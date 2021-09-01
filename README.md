@@ -1,7 +1,7 @@
 ## Producto Integrador de Aprendizaje - POO
 #### Integrantes del equipo: 
 ###### -Pérez Garza Francisco Alejandro 1896612
-###### - 
+###### -Santillán Cedillo Enrique 1971970
 
 
 ------------
@@ -35,6 +35,8 @@ MovimientosM
   
   -Sueldo // La paga que recibe
   
+  -Salir(); // Regresa al menú inicial
+  
 #### **Gerente** tiene los siguientes atributos:
 -Empleado se extenderá a Gerente, así que tendrá sus atributos
   
@@ -46,10 +48,9 @@ MovimientosM
   
   -HacerPagos(); // Cualquier deuda u operacion que tendría en cuenta
   
+  -DardeAltaProducto(); // 
+  
   -Cartelera(); // Entrará al menú Cartelera y podrá modificar 
-  
-  -Salir(); // Regresa al menú inicial
-  
   
 #### **CajeroBol** tiene los siguientes atributos: 
   
@@ -59,11 +60,11 @@ MovimientosM
   
   -ReiniciarPedido(); //En dado caso de cambiar de opinión o equivocarse, borrará el pedido 
   
-  ModificarPedido(); //En dado caso de cambiar de opinión o equivocarse, borrará el pedido
+  -ModificarPedido(); //En dado caso que quiera modificar sobre la marcha el pedido, aquí se le dará la opción
   
-  -MenuCajeroBol() // Tendrá acceso al menú de las salas, pero sin permisos de modificar
+  -MenuCajeroBol(); // Tendrá acceso al menú de las salas, pero sin permisos de modificar
   
-  -TerminarPedido() // Terminará el proceso y mostará un reporte final en la pantalla 
+  -TerminarPedido(); // Terminará el proceso y mostará un reporte final en la pantalla 
   
 #### **CajeroDul** tiene los siguientes atributos: 
   
@@ -73,21 +74,21 @@ MovimientosM
   
   -ReiniciarPedido(); //En dado caso de cambiar de opinión o equivocarse, borrará el pedido
   
-  -MenuProductos() // Tendrá acceso al menú de los producos, pero sin poder modificarlos
+  -MenuProductos(); // Tendrá acceso al menú de los producos, pero sin poder modificarlos
   
-  -TerminarPedido() // Terminará el proceso y mostará un reporte final en la pantalla
+  -TerminarPedido(); // Terminará el proceso y mostará un reporte final en la pantalla
   
  #### **Menus** tiene los siguientes atributos: 
  
- -MenuGerente() // Es el menú principal cuando el usario ingresa como gerente
+ -MenuGerente(); // Es el menú principal cuando el usario ingresa como gerente
  
- -MenuCajeroBol() //  Menú donde el Cajero puede interactuar al momento de elegir una película, sala y/o asiento.
+ -MenuCajeroBol(); //  Menú donde el Cajero puede interactuar al momento de elegir una película, sala y/o asiento.
  
- -MenuCajeroDul() // Menú donde el cajero puede ver los productos que se ofrecen, elegir y  
+ -MenuCajeroDul(); // Menú donde el cajero puede ver los productos que se ofrecen e interacuar con ellos, más no modificarlos
  
- -MenuMovimientos() // Menu donde están los movimientos monetarios, donde se puede mostrar, modificar y revertir.
+ -MenuMovimientos(); // Menu donde están los movimientos monetarios, donde se puede mostrar, modificar y revertir.
  
- -MenuProductos() // Menú de los productos, donde se agregara, eliminará
+ -MenuProductos(); // Menú de los productos, donde se agregara, eliminará
  o modificará algo.
  
  #### **Productos** tiene los siguientes atributos: 
@@ -127,4 +128,15 @@ MovimientosM
   -Pagos // Se mostrará todo el dinero que se ha perdido
   
   -Total // El total de dinero restando los pagos
-#### Fin
+  
+  #### **Funcionalidades**
+   Son las operaciones que no están en las clases, pero son utilizadas de manera general
+   
+   -GetHora(); // Se usa para calcular la hora
+   
+   -MandarGanancias(); // Sirve para que aumente las ganancias cuando los clientes hagan una compra
+   
+   -MandarPago(); // Sirve cuando se consiguen los prodcutos
+   
+  
+#### Fin:D
