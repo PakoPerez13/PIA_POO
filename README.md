@@ -138,5 +138,10 @@ MovimientosM
    
    -MandarPago(); // Sirve cuando se consiguen los prodcutos
    
+   #### **Grafica UML**: 
+
+![Grafica_UML](https://user-images.githubusercontent.com/89920305/131930294-af52c57b-5516-42ec-81d0-439b0bf01b89.jpg)
+
+   
   
 #### Fin:D
