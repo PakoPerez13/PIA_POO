@@ -129,7 +129,7 @@ MovimientosM
   
   -Total // El total de dinero restando los pagos
   
-  #### **Funcionalidades**
+  ### **Funcionalidades**
    Son las operaciones que no están en las clases, pero son utilizadas de manera general
    
    -GetHora(); // Se usa para calcular la hora
