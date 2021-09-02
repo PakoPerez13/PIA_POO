@@ -91,7 +91,7 @@ MovimientosM
  -MenuProductos(); // Menú de los productos, donde se agregara, eliminará
  o modificará algo.
  
- #### **Productos** tiene los siguientes atributos: 
+ #### **Producto** tiene los siguientes atributos: 
   
   -Tipo // El tipo de producto: Pelicula o Comida
   
