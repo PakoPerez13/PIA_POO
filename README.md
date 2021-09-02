@@ -115,7 +115,7 @@ MovimientosM
   -Gasto_Peli // Cuanto cues
   
    #### **Comida** tiene los siguientes atributos: 
-   -Empleado se extenderá a CajeroBol, así que tendrá sus atributos
+   -Producto se extenderá a Comida, así que tendrá sus atributos
    
   -Tipo_Comida // Combo o Individual
   
