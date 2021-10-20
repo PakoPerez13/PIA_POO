@@ -13,9 +13,10 @@
 #### CajeroBol
 
   - IniciarPedido: Se encarga de capturar una serie de datos que serán registrados en un archivo.
-  - ReiniciarPedido: 
-  - MenuCajeroBol: 
+  - ReiniciarPedido: Limpia la informacion registrada en el archivo creado si es que lo hay.
+  - MenuCajeroBol: Establece un menú para seleccionar las distintas funciones de la clase. 
   - TerminarPedido: 
 
 ------------
 
+#### CajeroDul
