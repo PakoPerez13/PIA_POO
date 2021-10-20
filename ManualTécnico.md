@@ -15,8 +15,18 @@
   - IniciarPedido: Se encarga de capturar una serie de datos que serán registrados en un archivo.
   - ReiniciarPedido: Limpia la informacion registrada en el archivo creado si es que lo hay.
   - MenuCajeroBol: Establece un menú para seleccionar las distintas funciones de la clase. 
-  - TerminarPedido: 
+  - TerminarPedido: Calcula los datos del pedido y manda el total de ganancias.
 
 ------------
 
 #### CajeroDul
+
+  - IniciarPedido: Se encarga de capturar una serie de datos que serán registrados en un archivo.
+  - ReiniciarPedido: Limpia la informacion registrada en el archivo creado si es que lo hay.
+  - MenuCajeroDul: Establece un menú para seleccionar las distintas funciones de la clase. 
+  - TerminarPedido: Calcula los datos del pedido y manda el total de ganancias.
+  
+------------
+
+#### Comida
+
