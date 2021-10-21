@@ -1,3 +1,0 @@
-Francisco 	1	5000.0	Pako13 	
-Alejandro 	3	2000.0	ElBicho 	
- Enrique 	2	2500.0	Elpepe 	
