@@ -30,11 +30,11 @@
 
 ------------
 
-####Empleado
+#### Empleado
 
 ------------
 
-####Funcionalidades
+#### Funcionalidades
 
   - CrearArchivoEmpleados: Se crea el archivo inicial de empleados de manera que el programa no se inicie con datos vacios, sino, con unos ya preestablecidos.
   - CrearArchivoPeliculas: Se crea el archivo inicial de peliculas.
@@ -58,19 +58,19 @@
 
 ------------
 
-####Gerente
+#### Gerente
 
 ------------
 
-####Main
+#### Main
 
 ------------
 
-####Menus
+#### Menus
 
 ------------
 
-####MovimientosMonetarios
+#### MovimientosMonetarios
 
   - getGanancias: Obtiene el valor de la variable de un objeto.
   - setGanancias: Declara el valor de la variable de un objeto.
@@ -81,10 +81,10 @@
 
 ------------
 
-####Pelicula
+#### Pelicula
 
 ------------
 
-####Producto
+#### Producto
 
 ------------
