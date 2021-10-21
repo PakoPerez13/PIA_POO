@@ -1,7 +1,7 @@
 ## Producto Integrador de Aprendizaje - POO
 #### Integrantes del equipo: 
-###### -Pérez Garza Francisco Alejandro 1896612
-###### -Santillán Cedillo Enrique 1971970
+###### - Pérez Garza Francisco Alejandro 1896612
+###### - Santillán Cedillo Enrique 1971970
 
 
 ------------
