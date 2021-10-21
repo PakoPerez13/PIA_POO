@@ -45,16 +45,16 @@
   - MostrarEmpleados: Muestra el contenido de la lista de empleados.
   - MostrarDulceria: Muestra el contenido de la lista de dulceria.
   - MostrarPeliculas: Muestra el contenido de la lista de peliculas.
-  - CrearArchivosBoletos: 
-  - DeclararGanancias:
-  - AñadirGanancias:
-  - AñadirPagos:
-  - CalcularTotal:
-  - DeclararPagos:
-  - DeclararGente:
-  - DeclararCajeroBol:
-  - DeclararCajeroDul:
-  - MostrarMovimientosMonetarios:
+  - CrearArchivoBoletos: Se crea un archivo para los productos de las funciones disonibles.
+  - DeclararGanancias: Declara las ganancias de manera manual en caso de que sea necesario actualizarlas.
+  - AñadirGanancias: Se usa para añadir la suma de una compra realizada a las ganancias.
+  - AñadirPagos: Se usa para añadir la suma de un producto declarado al vlor de los pagos.
+  - CalcularTotal: Calcula la resta de las Ganancias - Pagos.
+  - DeclararPagos: Declara los pagos que solo usa el gerente en su respectivo menú.
+  - DeclararGerente: Obtiene los datos de Gerente para luego declararlos en el archivero de empledos.
+  - DeclararCajeroBol: Obtiene los datos de CajeroBol para luego declararlos en el archivero de empleados.
+  - DeclararCajeroDul: Obtiene los datos de CajeroDul para luego declararlos en el archivero de empleados.
+  - MostrarMovimientosMonetarios: Permite ver todas las ganacias o pagos que se han añadido a lo largo del programa.
 
 ------------
 
