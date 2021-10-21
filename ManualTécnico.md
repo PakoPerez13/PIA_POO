@@ -48,7 +48,7 @@
   - CrearArchivoBoletos: Se crea un archivo para los productos de las funciones disonibles.
   - DeclararGanancias: Declara las ganancias de manera manual en caso de que sea necesario actualizarlas.
   - AñadirGanancias: Se usa para añadir la suma de una compra realizada a las ganancias.
-  - AñadirPagos: Se usa para añadir la suma de un producto declarado al vlor de los pagos.
+  - AñadirPagos: Se usa para añadir la suma de un producto declarado al valor de los pagos.
   - CalcularTotal: Calcula la resta de las Ganancias - Pagos.
   - DeclararPagos: Declara los pagos que solo usa el gerente en su respectivo menú.
   - DeclararGerente: Obtiene los datos de Gerente para luego declararlos en el archivero de empledos.
@@ -59,6 +59,8 @@
 ------------
 
 #### Gerente
+
+  - 
 
 ------------
 
