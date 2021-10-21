@@ -39,7 +39,7 @@ MovimientosM
   - Salir(); // Regresa al menú inicial
   
 #### **Gerente** tiene los siguientes atributos:
--Empleado se extenderá a Gerente, así que tendrá sus atributos
+- Empleado se extenderá a Gerente, así que tendrá sus atributos
   
   - VerMovimiento(); //El Gerente es el único con acceso a la ventana de MovimientosM
   
