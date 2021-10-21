@@ -28,9 +28,23 @@
 
 #### Comida
 
+  - getTipo: Obtiene el valor de la variable de un objeto.
+  - setTipo: Declara el valor de la variable de un objeto.
+  - getGasto: Obtiene el valor de la variable de un objeto.
+  - setGasto: Declara el valor de la variable de un objeto.
+
 ------------
 
 #### Empleado
+
+  - getTipo: Obtiene el valor de la variable de un objeto.
+  - setTipo: Declara el valor de la variable de un objeto.
+  - getNombre: Obtiene el valor de la variable de un objeto.
+  - setNombre: Declara el valor de la variable de un objeto.
+  - getContraseña: Obtiene el valor de la variable de un objeto.
+  - setContraseña: Declara el valor de la variable de un objeto.
+  - getSueldo: Obtiene el valor de la variable de un objeto.
+  - setSueldo: Declara el valor de la variable de un objeto.
 
 ------------
 
@@ -60,7 +74,12 @@
 
 #### Gerente
 
-  - 
+  - VerMovimientos: 
+  - Visualizacion: 
+  - AccederMenus: 
+  - DeclaracionDinero: 
+  - Dulceria: 
+  - Cartelera: 
 
 ------------
 
@@ -69,6 +88,11 @@
 ------------
 
 #### Menus
+
+  - MenuGerente:
+  - MenuCajeroBol:
+  - MenuCajeroDul:
+  - 
 
 ------------
 
@@ -85,8 +109,25 @@
 
 #### Pelicula
 
+  - Gasto: 
+  - getTiempo: 
+  - setTiempo: 
+  - getSala: 
+  - setSala: 
+  - getAsiento: 
+  - setAsiento: 
+
 ------------
 
 #### Producto
+
+  - getTipo: 
+  - setTipo: 
+  - getCantidad: 
+  - setCantidad: 
+  - getNombre: 
+  - setNombre: 
+  - getPrecio: 
+  - setPrecio: 
 
 ------------
