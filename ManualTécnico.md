@@ -28,3 +28,63 @@
 
 #### Comida
 
+------------
+
+####Empleado
+
+------------
+
+####Funcionalidades
+
+  - CrearArchivoEmpleados: Se crea el archivo inicial de empleados de manera que el programa no se inicie con datos vacios, sino, con unos ya preestablecidos.
+  - CrearArchivoPeliculas: Se crea el archivo inicial de peliculas.
+  - AgregarEmpleados: Captura los datos de los empleados (nombre, tipo, sueldo y contraseña).
+  - AgregarPelicula: Captura los datos de las peliculas (nombre, tipo, tiempo, sala y precio).
+  - AgregarDulceria: Captura los datos de los productos que se deseen comprar (nombre, tipo y precio).
+  - CrearArchivoDulceria: Se crea el archivo inicial de dulceria, donde se guardaran los productos vendidosy sus datos.
+  - MostrarEmpleados: Muestra el contenido de la lista de empleados.
+  - MostrarDulceria: Muestra el contenido de la lista de dulceria.
+  - MostrarPeliculas: Muestra el contenido de la lista de peliculas.
+  - CrearArchivosBoletos: 
+  - DeclararGanancias:
+  - AñadirGanancias:
+  - AñadirPagos:
+  - CalcularTotal:
+  - DeclararPagos:
+  - DeclararGente:
+  - DeclararCajeroBol:
+  - DeclararCajeroDul:
+  - MostrarMovimientosMonetarios:
+
+------------
+
+####Gerente
+
+------------
+
+####Main
+
+------------
+
+####Menus
+
+------------
+
+####MovimientosMonetarios
+
+  - getGanancias: Obtiene el valor de la variable de un objeto.
+  - setGanancias: Declara el valor de la variable de un objeto.
+  - getPagos: Obtiene el valor de la variable de un objeto.
+  - setPagos: Declara el valor de la variable de un objeto.
+  - getTotal: Obtiene el valor de la variable de un objeto.
+  - setTotal: Declara el valor de la variable de un objeto.
+
+------------
+
+####Pelicula
+
+------------
+
+####Producto
+
+------------
