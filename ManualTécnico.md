@@ -74,12 +74,12 @@
 
 #### Gerente
 
-  - VerMovimientos: 
-  - Visualizacion: 
-  - AccederMenus: 
-  - DeclaracionDinero: 
-  - Dulceria: 
-  - Cartelera: 
+  - VerMovimientos: Muestra los movimientos monetarios registrados.
+  - Visualizacion: Sirve para ver el personal registrado según su tipo.
+  - AccederMenus: Permite acceder al menú de boletos o dulceria.
+  - DeclaracionDinero: Permite actualizar los pagos o ingresos de los movimientos monetarios.
+  - Dulceria: Permite añadir otra comida para comprar.
+  - Cartelera: Permite agregar otra película para ver.
 
 ------------
 
@@ -89,10 +89,9 @@
 
 #### Menus
 
-  - MenuGerente:
-  - MenuCajeroBol:
-  - MenuCajeroDul:
-  - 
+  - MenuGerente: Crea un menú permitiendo navegar en las opciones disponibles del mismo.
+  - MenuCajeroBol: Crea un menú permitiendo navegar en las opciones disponibles del mismo.
+  - MenuCajeroDul: Crea un menú permitiendo navegar en las opciones disponibles del mismo.
 
 ------------
 
@@ -109,25 +108,25 @@
 
 #### Pelicula
 
-  - Gasto: 
-  - getTiempo: 
-  - setTiempo: 
-  - getSala: 
-  - setSala: 
-  - getAsiento: 
-  - setAsiento: 
+  - Gasto: Permite registrar los gastos.
+  - getTiempo: Obtiene el valor de la variable de un objeto.
+  - setTiempo: Declara el valor de la variable de un objeto.
+  - getSala: Obtiene el valor de la variable de un objeto.
+  - setSala: Declara el valor de la variable de un objeto.
+  - getAsiento: Obtiene el valor de la variable de un objeto.
+  - setAsiento: Declara el valor de la variable de un objeto.
 
 ------------
 
 #### Producto
 
-  - getTipo: 
-  - setTipo: 
-  - getCantidad: 
-  - setCantidad: 
-  - getNombre: 
-  - setNombre: 
-  - getPrecio: 
-  - setPrecio: 
+  - getTipo: Obtiene el valor de la variable de un objeto.
+  - setTipo: Declara el valor de la variable de un objeto.
+  - getCantidad: Obtiene el valor de la variable de un objeto.
+  - setCantidad: Declara el valor de la variable de un objeto.
+  - getNombre: Obtiene el valor de la variable de un objeto.
+  - setNombre: Declara el valor de la variable de un objeto.
+  - getPrecio: Obtiene el valor de la variable de un objeto.
+  - setPrecio: Declara el valor de la variable de un objeto.
 
 ------------
