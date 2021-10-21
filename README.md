@@ -12,7 +12,8 @@
 
 ### Solución Propuesta:
  
-##### El equipo se compromete a realizar una interfaz gráfica, amigable la cual pueda satisfacer las necesidades de la empresa, tal como una entrada a menus propios según el rol del empleado, una ventana que ayude con la logística de la venta de productos que se ofrecen y una ventaña para verificar las ganancias y gastos que solamente el gerenten tendrá el acceso para ver y corregir.
+##### El equipo se compromete a realizar una interfaz gráfica de apoyo para que la empresa pueda realizar las distintas acciones realacionadas con sus ventas.
+
 ------------
 
 ### Entidades: 
