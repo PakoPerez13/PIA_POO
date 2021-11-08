@@ -143,7 +143,7 @@ MovimientosM
    
    - AñadirGa(); // Se usa para añadir la suma de una compra realizada a las ganancias
 
-   - AgregarPago(); // Captura los datos del pago que introduzca el gerente (Nombre del ingreso, ingreso)
+   - AgregarPago(); // Captura los datos del pago que introduzca el gerente (Nombre del ingreso, pago)
 
    - AgregarGanancias(); // Captura los datos del ingreso que introduzca el gerente (Nombre del ingreso, ingreso)
    
