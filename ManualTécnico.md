@@ -54,7 +54,9 @@
   - CrearArchivoGanancias: Se crea el archivo inicial de ganancias.
   - CrearArchivoPagos: Se crea el archivo inicial de pagos.
   - AñadirPa: Se usa para añadir la suma de un producto declarado al valor de los pagos.
+  - AñadirPago: Se usa para añadir un pago dentro del archivo de pagos.
   - AñadirGa: Se usa para añadir la suma de una compra realizada a las ganancias.
+  - AñadirGanancia: Se usa para añadir un pago dentro del archivo de ganancias.
   - MostrarMovimientosMonetarios: Permite ver todas las ganacias o pagos que se han añadido a lo largo del programa.
   - CrearArchivoPeliculas: Se crea el archivo inicial de peliculas.
   - CrearArchivoBoletos: Se crea un archivo para los productos de las funciones disonibles.
