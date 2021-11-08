@@ -142,6 +142,10 @@ MovimientosM
    - AñadirPa(); // Se usa para añadir la suma de un producto declarado al valor de los pagos
    
    - AñadirGa(); // Se usa para añadir la suma de una compra realizada a las ganancias
+
+   - AgregarPago(); // Captura los datos del pago que introduzca el gerente (Nombre del ingreso, ingreso)
+
+   - AgregarGanancias(); // Captura los datos del ingreso que introduzca el gerente (Nombre del ingreso, ingreso)
    
    - MostrarMovimientosMonetarios(); // Permite ver todas las ganacias o pagos que se han añadido a lo largo del programa
   
