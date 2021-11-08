@@ -180,8 +180,7 @@ MovimientosM
    
    #### **Grafica UML**: 
 
-![Grafica_UML](https://user-images.githubusercontent.com/89920305/131930294-af52c57b-5516-42ec-81d0-439b0bf01b89.jpg)
+   ![Grafica_UML](https://user-images.githubusercontent.com/89920305/140691398-dddfb0b2-4f4d-4ccd-acc9-3266553d18ef.png)
 
-   
   
 #### Fin:D
